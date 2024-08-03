@@ -1,1 +1,760 @@
+.f{
+    /* Rectangle 4 */
 
+position: absolute;
+width: 322px;
+height: 328px;
+left: 41px;
+top: 340px;
+
+background: url(image.png);
+border-radius: 15px 15px 0px 0px;
+
+}
+.r{
+    /* Rectangle 11 */
+
+position: absolute;
+width: 322px;
+height: 322px;
+left: 469px;
+top: 340px;
+
+background: url(image.png);
+border-radius: 15px 15px 0px 0px;
+
+}
+.rr{/* Rectangle 16 */
+
+    position: absolute;
+    width: 322px;
+    height: 328px;
+    left: 41px;
+    top: 926px;
+    
+    background: url(image.png);
+    border-radius: 15px 15px 0px 0px;
+    }
+.rrr{
+/* Rectangle 21 */
+
+position: absolute;
+width: 322px;
+height: 328px;
+left: 469px;
+top: 925px;
+
+background: url(image.png);
+border-radius: 15px 15px 0px 0px;
+
+}
+h4{/* Rectangle 5 */
+
+    box-sizing: border-box;
+    
+    position: absolute;
+    width: 162px;
+    height: 66px;
+    left: 40px;
+    top: 246px;
+    
+    background: #202020;
+    border: 2px solid #FF9900;
+    border-radius: 15px;
+    /* За замовчування */
+
+position: absolute;
+width: 137px;
+height: 19px;
+left: 53px;
+top: 269px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 18px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+    }
+    body{
+        /* Rectangle 6 */
+
+position: absolute;
+width: 834px;
+height: 5188px;
+left: 1px;
+top: 96px;
+
+background: #393939;
+
+    }
+    .t{
+        /* Саляміно, Тенеро, Картопляні діпи М, Нагетси 6шт, */
+
+position: absolute;
+width: 322px;
+height: 48px;
+left: 41px;
+top: 746px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 24px;
+
+color: #FFFFFF;
+
+
+    }
+    .tt{
+        /* Саляміно, Тенеро, Картопляні діпи М, Нагетси 6шт, */
+
+position: absolute;
+width: 322px;
+height: 47px;
+left: 469px;
+top: 739px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 24px;
+
+color: #FFFFFF;
+
+
+    }
+    .ttt{
+        /* Саляміно, Тенеро, Картопляні діпи М, Нагетси 6шт, */
+
+position: absolute;
+width: 322px;
+height: 48px;
+left: 41px;
+top: 1332px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 24px;
+
+color: #FFFFFF;
+
+
+    }
+    .tttt{
+        /* Саляміно, Тенеро, Картопляні діпи М, Нагетси 6шт, */
+
+position: absolute;
+width: 322px;
+height: 48px;
+left: 469px;
+top: 1331px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 24px;
+
+color: #FFFFFF;
+
+
+    }
+    .p{
+        /* 450грн */
+
+position: absolute;
+width: 75px;
+height: 25px;
+left: 54px;
+top: 807px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 24px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+    }
+    .pp{
+        /* 450грн */
+
+position: absolute;
+width: 75px;
+height: 24px;
+left: 482px;
+top: 799px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 24px;
+
+color: #FFFFFF;
+
+
+    }
+    .ppp{
+        /* 450грн */
+
+position: absolute;
+width: 75px;
+height: 25px;
+left: 54px;
+top: 1393px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 24px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+    }
+    .pppp{
+        /* 450грн */
+
+position: absolute;
+width: 75px;
+height: 25px;
+left: 482px;
+top: 1392px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 24px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+    }
+    .u{
+        /* замовити */
+
+position: absolute;
+width: 58px;
+height: 16px;
+left: 285px;
+top: 813px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 12px;
+line-height: 15px;
+
+color: #000000;
+
+
+    }
+    .uu{
+        /* замовити */
+
+position: absolute;
+width: 58px;
+height: 15px;
+left: 713px;
+top: 805px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 12px;
+line-height: 15px;
+/* identical to box height */
+
+color: #000000;
+
+
+    }
+    .uuu{
+        /* замовити */
+
+position: absolute;
+width: 58px;
+height: 16px;
+left: 285px;
+top: 1399px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 12px;
+line-height: 15px;
+
+color: #000000;
+
+
+    }
+    .uuuu{
+        /* замовити */
+
+position: absolute;
+width: 58px;
+height: 16px;
+left: 713px;
+top: 1398px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 12px;
+line-height: 15px;
+
+color: #000000;
+
+
+    }
+    h1{/* Комбо */
+
+
+        text-align: center;
+        
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 40px;
+        line-height: 48px;
+        
+        color: #FFFFFF;
+        
+        }
+        .q{
+            /* Комбо Тижня */
+
+position: absolute;
+width: 101px;
+height: 24px;
+left: 53px;
+top: 668px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 18px;
+text-decoration-line: underline;
+
+color: #FFFFFF;
+
+
+        }
+        .qq{
+            /* Комбо s */
+
+position: absolute;
+width: 101px;
+height: 24px;
+left: 481px;
+top: 662px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 18px;
+text-decoration-line: underline;
+
+color: #FFFFFF;
+
+
+        }
+        .qqq{
+            /* Комбо Тижня */
+
+position: absolute;
+width: 101px;
+height: 24px;
+left: 53px;
+top: 1254px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 18px;
+text-decoration-line: underline;
+
+color: #FFFFFF;
+
+
+        }
+        .qqqq{
+            /* Комбо Тижня */
+
+position: absolute;
+width: 101px;
+height: 24px;
+left: 481px;
+top: 1253px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 18px;
+text-decoration-line: underline;
+
+color: #FFFFFF;
+
+
+        }
+        /* General Styles */
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #222; /* Dark background for better contrast */
+    color: #fff; /* White text color */
+}
+
+header {
+    background-color: #333; /* Dark header background */
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    padding: 10px 0;
+    width: 100%;
+    height: auto;
+}
+
+.header-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+header h1 {
+    margin: 10px;
+}
+
+header img {
+    height: 40px;
+}
+
+nav {
+    display: flex;
+    align-items: center;
+}
+
+nav a {
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    color: #fff; /* White text color */
+    margin-right: 20px;
+    font-size: 16px;
+}
+
+nav a img {
+    margin-right: 8px;
+    height: 24px;
+}
+
+nav a:hover {
+    color: #ff6347; /* Change color on hover */
+}
+
+nav .container {
+    display: flex;
+    align-items: center;
+}
+
+nav .container img {
+    margin-right: 10px;
+    height: 26px;
+}
+
+button.buy {
+    background-color: #ff6347; /* Button background color */
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+button.buy:hover {
+    background-color: #e0533d; /* Darker on hover */
+}
+
+/* Responsive Styles */
+@media (max-width: 1000px) {
+    .header-container {
+        flex-direction: column;
+    }
+    
+    nav {
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    
+    nav a {
+        margin: 5px 10px;
+    }
+    
+    nav .container {
+        margin-top: 10px;
+    }
+}
+
+@media (max-width: 480px) {
+    nav {
+        flex-direction: column;
+    }
+
+    nav a {
+        margin: 5px 0;
+    }
+
+    nav .container {
+        flex-direction: column;
+    }
+    
+    button.buy {
+        margin-top: 10px;
+    }
+}
+section{
+    margin-left: 200px;
+    margin-top: 200px;
+}
+section div{
+    margin-left: 1000px;
+    margin-top: 200px;
+}
+.kombo:hover{
+    color: #393939;
+}
+h4:hover{
+    background-color: #FF9900;
+}
+.f:hover{
+    border: 2px solid orange;
+}
+.r:hover{
+    border: 2px solid orange;
+}
+.rr:hover{
+    border: 2px solid orange;
+}
+.rrr:hover{
+    border: 2px solid orange;
+}
+.u{
+    border: 2px solid orange;
+    border-radius: 15px;
+}
+.uu{
+    border: 2px solid orange;
+    border-radius: 15px;
+}
+.uuu{
+    border: 2px solid orange;
+    border-radius: 15px;
+}
+.uuuu{
+    border: 2px solid orange;
+    border-radius: 15px;
+}
+
+.u:hover{
+    background-color: #FF9900;
+}
+.uu:hover{
+    background-color: #FF9900;
+}
+.uuu:hover{
+    background-color: #FF9900;
+}
+.uuuu:hover{
+    background-color: #FF9900;
+}
+.plus1{
+    /* Rectangle 26 */
+
+position: absolute;
+width: 20px;
+height: 20px;
+left: 343px;
+top: 835px;
+color: #fff;
+
+}
+.plus2{
+    /* Rectangle 27 */
+
+position: absolute;
+width: 20px;
+height: 20px;
+left: 771px;
+top: 835px;
+
+color: #fff;
+
+}
+.plus3{
+    /* Rectangle 28 */
+    
+position: absolute;
+width: 20px;
+height: 20px;
+left: 343px;
+top: 1421px;
+
+color: #fff;
+
+}
+.plus4{
+    /* Rectangle 29 */
+
+position: absolute;
+width:100%;
+height: 100%;
+left: 771px;
+top: 1421px;
+color: #fff;
+
+}
+footer{
+    background-color: #333;
+    width: 100%;
+    height: auto;
+    margin-top: 160%;
+}
+h1{
+  color: #fff;
+}
+footer p{
+    color: #fff
+}
+.bb{
+    width: 250px;
+}
+footer p:hover{
+    color:orange;
+}
+:root {
+    --w: 300px;
+    --wave: url('data:image/svg+xml,<svg width="1440" height="490" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" transform="rotate(0deg)" version="1.1"><defs><linearGradient id="sw-gradient-0" x1="0" x2="0" y1="1" y2="0"><stop offset="0%" stop-color="rgba(49, 96, 133, 1)"/><stop offset="100%" stop-color="rgba(49, 96, 133, 1)"/></linearGradient></defs><g class="layer"><title>Layer 1</title><path d="m-9638,343l80,-40.8c80,-41.2 240,-122.2 400,-106.2c160,16 320,131 480,155.2c160,24.8 320,-41.2 480,-40.9c160,-0.3 320,65.7 480,57.2c160,-8.5 320,-89.5 480,-122.5c160,-33 320,-16 480,-40.8c160,-24.2 320,-90.2 480,-65.4c160,24.2 320,139.2 480,187.9c160,49.3 320,32.3 480,-24.5c160,-57.2 320,-155.2 480,-196c160,-41.2 320,-24.2 480,-24.5c160,0.3 320,-16.7 480,-24.5c160,-8.2 320,-8.2 480,16.3c160,24.5 320,73.5 480,98c160,24.5 320,24.5 480,40.8c160,16.7 320,48.7 480,73.5c160,24.2 320,41.2 480,65.4c160,24.8 366,165.8 480,16.3c114,-149.5 309,-98.5 480,-179.7c171,-81.2 256,67.8 465,78.5c210,4.7 305,-94.9 495,-13.1c190,81.8 400,7.4 527,-27.4c127,-34.8 255,76.2 452,42.9c197,-33.3 301,9.3 381,-7.4l80,-16.3l0,245l-80,0c-80,0 -240,0 -400,0c-160,0 -320,0 -480,0c-160,0 -320,0 -480,0c-160,0 -320,0 -480,0c-160,0 -320,0 -480,0c-160,0 -320,0 -480,0c-160,0 -320,0 -480,0c-160,0 -320,0 -480,0c-160,0 -320,0 -480,0c-160,0 -320,0 -480,0c-160,0 -320,0 -480,0c-160,0 -320,0 -480,0c-160,0 -320,0 -480,0c-160,0 -320,0 -480,0c-160,0 -320,0 -480,0c-160,0 -320,0 -480,0c-160,0 -320,0 -480,0c-160,0 -320,0 -480,0c-160,0 -320,0 -480,0c-160,0 -320,0 -480,0c-160,0 -320,0 -480,0c-160,0 -320,0 -480,0c-160,0 -320,0 -480,0c-160,0 -320,0 -400,0l-80,0l0,-147z" fill="white" id="svg_1"/></g></svg>');
+  }
+
+  .scene {
+    position: relative;
+    width: var(--w);
+    aspect-ratio: 1;
+    border-radius: 50%;
+    background-image: var(--wave);
+    background-repeat: repeat-x;
+    background-position: bottom;
+    background-size: 740px;
+    animation: wave 2.5s linear infinite;
+  }
+  .move {
+    position: absolute;
+    width: var(--w);
+    aspect-ratio: 1;
+    display: flex;
+    border-radius: 50%;
+    align-items: center;
+    justify-content: center;
+    animation: rotateMove 10s linear infinite;
+    mix-blend-mode: difference;
+  }
+  .scene i {
+    --degree: 130px;
+    --deg: 360deg;
+    --cos: cos( (var(--i) * var(--deg) / var(--total)));
+    --sin: sin( (var(--i) * var(--deg) / var(--total)));
+    --transform: calc(var(--cos) * var(--degree)), 
+    calc(var(--sin) * var(--degree));
+    position: absolute;
+    width: 8px;
+    aspect-ratio: 1;
+    border-radius: 50%;
+    background: a;
+    display: block;
+    background: white;
+    transform: translate(
+      var(--transform)
+    );
+  }
+  
+  @keyframes wave {
+    0% {
+      background-position-x: 740px;
+    }
+    100% {
+      background-position-x: 0px;
+    }
+  }
+  @keyframes rotateMove {
+    from {
+      transform: rotate(0deg);
+    }
+    to {
+      transform: rotate(1turn);
+    }
+  }
+  body{
+    /* iPad Pro 11" - 1 */
+
+position: relative;
+width: 100%;
+height: auto;
+
+background: #141414;
+
+  }
+main{
+    width: 100%;
+    height: auto;
+   
+}
+  .piz{
+    
+    width: 350px;
+    height: 300px;
+  }
+  .pizz{
+
+    width: 350px;
+    height: 300px;
+  }
+  .pizzz{
+
+    width: 350px;
+    height: 300px;
+  }
+  .divs{
+    perspective: 400px;
+    transition: 1.5s;
+  }
+  .divs:hover{
+    transform: rotateZ(360deg);
+  }
